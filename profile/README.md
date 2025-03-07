@@ -39,8 +39,14 @@ To be a pioneer in **humanoid robotics** development in Indonesia, enabling natu
 ---
 
 ## 📌 Featured Projects  
-🔹 **Humanoid DanceBot** – A humanoid robot that performs **Indonesian traditional dances**, such as Tari Piring and Tari Saman.  
+🔹 **Humanoid DanceBot** – A humanoid robot that performs **Indonesian traditional dances**, such as Tari Piring and Tari Saman.
+
+[![Watch the video](https://i3.ytimg.com/vi/sjU60sCktng/maxresdefault.jpg)](https://www.youtube.com/watch?v=sjU60sCktng)
+
 🔹 **Human-Robot Interaction (HRI) Framework** – An AI-powered system for social interaction with humans.  
+
+[![Watch the video](https://i3.ytimg.com/vi/U208YNM5bfM/maxresdefault.jpg)](https://www.youtube.com/watch?v=U208YNM5bfM)
+
 🔹 **Vision-based Gesture Recognition** – A deep learning-based system for detecting and responding to human gestures.  
 
 ---
